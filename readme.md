@@ -1,15 +1,12 @@
 # Hi there! 👋  
 Ik ben Colin Baas.
 
-- 🌱 Momenteel leer ik Basic coding
-- 🔭 Ik werk momenteel aan: Databases
-- ⚡ Fun fact: Facts zijn fun
+- Momenteel leer ik Basic coding
+- Ik werk momenteel aan: Databases en Backend
 
 ## 🛠️ Skills & Tools
 **Languages:**  
-C#, PHP
+PHP, SQL
 
 **Tools:**  
 VS Code
-
-Thanks for visiting my profile! ✨  
