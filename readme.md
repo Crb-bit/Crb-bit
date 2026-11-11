@@ -1,10 +1,11 @@
 Ik ben Colin Baas.
 
 - ik ben een software Developer op Bit Acadamy in Purmerend
-- Ik werk momenteel aan: Databases, Backend en unity
+- Ik werk primair met: Databases, Backend en unity
+- ik kan ook werken met: frontend
 
 **Languages:**  
-PHP, SQL, C#
+PHP, SQL, C#, html
 
 **Tools:**  
 VS Code
